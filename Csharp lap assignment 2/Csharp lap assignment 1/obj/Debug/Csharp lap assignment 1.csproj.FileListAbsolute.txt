@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\x\c#\Csharp lap assignment 1\Csharp lap assignment 1\bin\Debug\Csharp lap assignment 1.exe.config
+C:\Users\user\Desktop\x\c#\Csharp lap assignment 1\Csharp lap assignment 1\bin\Debug\Csharp lap assignment 1.exe
+C:\Users\user\Desktop\x\c#\Csharp lap assignment 1\Csharp lap assignment 1\bin\Debug\Csharp lap assignment 1.pdb
+C:\Users\user\Desktop\x\c#\Csharp lap assignment 1\Csharp lap assignment 1\obj\Debug\Csharp lap assignment 1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\x\c#\Csharp lap assignment 1\Csharp lap assignment 1\obj\Debug\Csharp lap assignment 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\x\c#\Csharp lap assignment 1\Csharp lap assignment 1\obj\Debug\Csharp lap assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\x\c#\Csharp lap assignment 1\Csharp lap assignment 1\obj\Debug\Csharp lap assignment 1.exe
+C:\Users\user\Desktop\x\c#\Csharp lap assignment 1\Csharp lap assignment 1\obj\Debug\Csharp lap assignment 1.pdb
