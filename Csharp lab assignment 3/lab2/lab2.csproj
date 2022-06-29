@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{38D473BD-68EF-4E3A-857E-416F7794A091}</ProjectGuid>
+    <ProjectGuid>{3D78474B-18C3-4BB5-A104-4F7B53077FBD}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Csharp_lap_assignment_1</RootNamespace>
-    <AssemblyName>Csharp lap assignment 1</AssemblyName>
+    <RootNamespace>lab2</RootNamespace>
+    <AssemblyName>lab2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

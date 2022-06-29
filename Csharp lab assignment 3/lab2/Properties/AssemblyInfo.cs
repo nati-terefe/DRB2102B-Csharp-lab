@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Csharp lap assignment 1")]
+[assembly: AssemblyTitle("lab2")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Csharp lap assignment 1")]
+[assembly: AssemblyProduct("lab2")]
 [assembly: AssemblyCopyright("Copyright ©  2022")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("38d473bd-68ef-4e3a-857e-416f7794a091")]
+[assembly: Guid("3d78474b-18c3-4bb5-a104-4f7b53077fbd")]
 
 // Version information for an assembly consists of the following four values:
 //
