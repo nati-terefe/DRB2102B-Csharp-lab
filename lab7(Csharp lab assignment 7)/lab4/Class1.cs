@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+  
 namespace lab4
 {
-    internal class Class1
+    public class Class1
     {
         private static  List<Class1> product = new List<Class1>();
 
