@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Data.SqlClient;
 
 namespace lec_8
 {
@@ -45,20 +46,21 @@ namespace lec_8
                 };
 
                 c.save();
+              
+            
             if (this.flowLayoutPanel1.Controls.Count > 0)
                 this.flowLayoutPanel1.Controls.RemoveAt(0);
-
+            
+            
             foreach (Control item in flowLayoutPanel1.Controls.OfType<card>().ToList())
             {
                 flowLayoutPanel1.Controls.Remove(item);
             }
             foreach (var item in Class1.getall())
-            {
-
-                
-                card card = new card();
+            {       card card = new card();
+                     
                
-                   card.Id = item.idtext;
+                    card.Id = item.idtext;
                     card.First = item.fntext;
                     card.last = item.lntext;
                     card.address = item.addresstext;
@@ -74,7 +76,9 @@ namespace lec_8
                 card.Click += (object o, EventArgs E) =>
                 {
 
-                };
+                }; 
+            
+                
 
             }
            
